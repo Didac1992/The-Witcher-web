@@ -1,17 +1,9 @@
+.fondo {
 
-body {
-  font-family:Georgia,Times,serif;
-  background-image: url(IMG/WildHunt.jpg);
-    color: #FFFFFF
+  background-image: url('IMG/WildHunt.jpg');
+  background-size: cover;
+
   }
-
-h2 {
-
- text-align: center;
-
-}
-
-fieldset{
-  text-align: center;
-
+body {
+  color: #ffffff;
 }
